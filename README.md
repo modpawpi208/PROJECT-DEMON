@@ -1,4 +1,4 @@
-<img src= https://github.com/modpawpi208/PROJECT-DEMON/blob/main/Blanco%20y%20Azul%20Bokeh%20P%C3%A1gina%20Web%20Banner.png>
+<img src=https://github.com/modpawpi208/PROJECT-DEMON/blob/main/Logo.jpg>
 <hr>
 <h1>Sobre el proyecto:</h1>
 <h2>Descripción de la historia</h2>
